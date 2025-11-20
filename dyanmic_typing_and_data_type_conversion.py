@@ -1,0 +1,1 @@
+# Python variables are not explicitly declared with a specific data type. Instead, dynamic typing assigns the type of a variable automatically at runtime based on the value assigned to it. 
